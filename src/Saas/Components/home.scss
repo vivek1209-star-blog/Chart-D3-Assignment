@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+label {
+  font-size: 1.7rem;
+  margin-bottom: 25px;
+}
+
+input.form-control,
+input.form-control:focus {
+  background: #ffffff;
+  padding: 10px 10px 10px 10px;
+  margin-bottom: 10px;
+}
+
+.error {
+  position: relative;
+  color: red;
+  font-size: 1.1rem;
+  margin-bottom: 10px;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
