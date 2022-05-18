@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Chart-D3-Assignment/static/css/main.00da3a93.css",
+    "main.js": "/Chart-D3-Assignment/static/js/main.61f4f739.js",
+    "index.html": "/Chart-D3-Assignment/index.html",
+    "main.00da3a93.css.map": "/Chart-D3-Assignment/static/css/main.00da3a93.css.map",
+    "main.61f4f739.js.map": "/Chart-D3-Assignment/static/js/main.61f4f739.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00da3a93.css",
+    "static/js/main.61f4f739.js"
+  ]
+}
